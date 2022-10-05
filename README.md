@@ -20,3 +20,14 @@
 <a href="https://www.instagram.com/mahfxd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="40" /></a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=M4hf0d&style=flat-square&color=blue" alt=""/>
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+</div>
