@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Sayah Mahfoud </h1>
-#💫 About Me:
+💫 About Me:
 A computer science student, Backend developer and cyber security passionate.<br><br>    🔭 I’m currently working on some cool projects<br><br>    🌱 I’m currently learning cyber security and more about web dev<br><br>    💬 Ask me about anything I know. I would be glad to share what I know with you<br><br>    📫 How to reach me ma.sayah@esi-sba.dz<br>
 
 
