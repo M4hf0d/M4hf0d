@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm  Mahfoud </h1>
 💫 About Me:
-A computer science student, Backend developer and data science passionate.<br><br>    🔭 I’m currently working on some cool projects<br><br>       💬 Ask me about anything I know. I would be glad to share what I know with you<br><br>    📫 How to reach me s.mahfoud@engineer.com <br>
+A computer science student, Backend developer and DevOps passionate.<br><br>    🔭 I’m currently working on some cool projects<br><br>       💬 Ask me about anything I know. I would be glad to share what I know with you<br><br>    📫 How to reach me s.mahfoud@engineer.com <br>
 
 
 ## 🌐 Socials:
